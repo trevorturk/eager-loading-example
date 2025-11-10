@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "swarm_sdk", "2.1.1"
+gem "swarm_sdk", "2.2.0"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.1.1"
